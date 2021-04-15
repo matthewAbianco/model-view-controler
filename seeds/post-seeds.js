@@ -7,7 +7,6 @@ const postdata = [
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'https://nasa.gov/donec.json',
     user_id: 8
   },
   {
@@ -32,7 +31,6 @@ const postdata = [
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'http://ucla.edu/consequat/nulla.html',
     user_id: 1
   },
   {
